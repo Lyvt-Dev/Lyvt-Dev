@@ -36,6 +36,12 @@
 
 ---
 
+## 🎧 Now Playing on Discord
+
+![Discord Presence](https://lanyard.cnrad.dev/api/699983277481525379)
+
+---
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lyvt-Dev&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
