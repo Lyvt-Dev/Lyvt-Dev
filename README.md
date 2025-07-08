@@ -64,7 +64,7 @@
 ## 📫 Connect with Me
 
 - 💬 Discord: `_.calmly`
-- 📧 Email: [lyvt@proton.me](mailto:lyvt@proton.me)
+- 📧 Email: [contact@calmly-dev.xyz](mailto:contact@calmly-dev.xyz)
 - 🌍 Minecraft Server: [PayBox Discord](https://discord.gg/uT2vsZKrvn)
 
 ---
