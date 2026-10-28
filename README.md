@@ -6,7 +6,7 @@
 
 I build Minecraft plugins, experiment with software, and enjoy turning ideas into useful projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lyvt.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lyvt.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lyvt.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lyvt.dev) [down]
 [![Modrinth](https://img.shields.io/badge/Modrinth-Profile-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/_.lyvt)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyvt-Dev?tab=repositories)
 
